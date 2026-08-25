@@ -2,11 +2,13 @@
 
 Video demo render từ composition HTML bằng CLI Hyperframes.
 
+Lời thoại là **một mạch đọc liên tục** (không ghép 4 clip TTS). Nhạc nền duck nhẹ, loudness khoảng −16 LUFS.
+
 ## Nghe / xem
 
-Mở các file này **trên GitHub** (trình duyệt), không mở trong chat Cursor — player trong app đang bỏ track audio.
+Mở các file này **trên GitHub** (trình duyệt) hoặc **tải về máy**. Player trong chat Cursor thường bỏ track audio — hình chạy nhưng không có tiếng.
 
-- Video (hình + tiếng): `hyperframes-intro-vi.mp4`
+- Video (hình + tiếng): `hyperframes-intro-vi.mp4` (~21s)
 - Chỉ thuyết minh: `thuyet-minh.mp3`
 - Thuyết minh + nhạc nền: `thuyet-minh-va-nhac.mp3`
 
