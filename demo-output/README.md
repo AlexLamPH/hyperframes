@@ -8,11 +8,22 @@ Mở các file này **trên GitHub** (trình duyệt) hoặc **tải về máy**
 
 Trên GitHub: bấm vào file → Play. Điện thoại: bấm **Download** rồi mở bằng VLC hoặc ứng dụng Nhạc.
 
-## Diary-card / Akashic Library — 30s demo
+## Diary-card / Akashic Library
 
-Bài [An AI That Remembers Who It Is](https://cosmos-ai-lab.com/blog/ak-cnt-cal0037). Overlay trên footage bảng mạch Diary Die của Ra.
+Bài [An AI That Remembers Who It Is](https://cosmos-ai-lab.com/blog/ak-cnt-cal0037).
 
-- Video (hình + tiếng): `akashic-30s.mp4` (~30s, 1080p)
+### Full bài (~5 phút 28 giây)
+
+Đọc hết essay, giọng NamMinh. 11 cảnh: chứng hay quên → Diary-card → bảng mạch Ra → ba mạch liên tục → đóng.
+
+- Video (hình + tiếng): `akashic-full.mp4` (1080p)
+- Thuyết minh + nhạc nền: `thuyet-minh-full.mp3`
+
+### Demo 30 giây
+
+Overlay trên footage bảng mạch Diary Die của Ra.
+
+- Video (hình + tiếng): `akashic-30s.mp4`
 - Thuyết minh + nhạc nền: `thuyet-minh-30s.mp3`
 
 ## Intro Hyperframes (cũ)
