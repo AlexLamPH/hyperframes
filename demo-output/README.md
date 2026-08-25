@@ -1,12 +1,21 @@
-# Hyperframes intro (tiếng Việt)
+# Hyperframes demos (tiếng Việt)
 
-Video demo render từ composition HTML bằng CLI Hyperframes.
-
-Lời thoại là **một mạch đọc liên tục** (không ghép 4 clip TTS). Nhạc nền duck nhẹ, loudness khoảng −16 LUFS.
+Video render từ composition HTML bằng CLI Hyperframes. Giọng nam: **NamMinh Neural**. Lời thoại là **một mạch đọc liên tục** (không ghép nhiều clip TTS). Loudness khoảng −16 LUFS.
 
 ## Nghe / xem
 
 Mở các file này **trên GitHub** (trình duyệt) hoặc **tải về máy**. Player trong chat Cursor thường bỏ track audio — hình chạy nhưng không có tiếng.
+
+Trên GitHub: bấm vào file → Play. Điện thoại: bấm **Download** rồi mở bằng VLC hoặc ứng dụng Nhạc.
+
+## Diary-card / Akashic Library — 30s demo
+
+Bài [An AI That Remembers Who It Is](https://cosmos-ai-lab.com/blog/ak-cnt-cal0037). Overlay trên footage bảng mạch Diary Die của Ra.
+
+- Video (hình + tiếng): `akashic-30s.mp4` (~30s, 1080p)
+- Thuyết minh + nhạc nền: `thuyet-minh-30s.mp3`
+
+## Intro Hyperframes (cũ)
 
 - Video (hình + tiếng): `hyperframes-intro-vi.mp4` (~21s)
 - Chỉ thuyết minh (giọng nữ HoaiMy): `thuyet-minh.mp3`
@@ -16,5 +25,3 @@ Giọng nam thử (NamMinh, không video):
 
 - Cùng lời intro: `giong-nam-intro.mp3`
 - Đoạn thử tên riêng bài Akashic: `giong-nam-akashic.mp3`
-
-Trên GitHub: bấm vào file → Play. Điện thoại: bấm **Download** rồi mở bằng VLC hoặc ứng dụng Nhạc.
