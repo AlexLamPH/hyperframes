@@ -1,6 +1,6 @@
 # Hyperframes demos (tiếng Việt)
 
-Video render từ composition HTML bằng CLI Hyperframes. Giọng nam: **NamMinh Neural**. Lời thoại là **một mạch đọc liên tục** (không ghép nhiều clip TTS). Loudness khoảng −16 LUFS.
+Video render từ composition HTML bằng CLI Hyperframes. Giọng nam: **NamMinh Neural**. Loudness khoảng −16 LUFS.
 
 ## Nghe / xem
 
@@ -12,27 +12,26 @@ Trên GitHub: bấm vào file → Play. Điện thoại: bấm **Download** rồ
 
 Bài [An AI That Remembers Who It Is](https://cosmos-ai-lab.com/blog/ak-cnt-cal0037).
 
-### Full bài (~5 phút 28 giây)
+### Thuyết minh trên bài viết (~5 phút 28 giây) — bản chính
 
-Đọc hết essay, giọng NamMinh. 11 cảnh: chứng hay quên → Diary-card → bảng mạch Ra → ba mạch liên tục → đóng.
+Giọng NamMinh đọc **full bài** ngay trên hình trang Field Journal. Phụ đề tiếng Việt trong clip. Cắt máy ~4–6 giây; đoạn bảng mạch Ra dùng footage Diary Die.
 
-- Video (hình + tiếng): `akashic-full.mp4` (1080p)
-- Thuyết minh + nhạc nền: `thuyet-minh-full.mp3`
+- Video (hình + tiếng + phụ đề): `akashic-thuyet-minh.mp4`
+- Mix audio: `thuyet-minh-full.mp3`
+
+### Bản tóm tắt motion-graphics (~5:28)
+
+Cùng lời đọc, nhưng hình là title card / HUD (bản trước).
+
+- Video: `akashic-full.mp4`
 
 ### Demo 30 giây
 
-Overlay trên footage bảng mạch Diary Die của Ra.
-
-- Video (hình + tiếng): `akashic-30s.mp4`
-- Thuyết minh + nhạc nền: `thuyet-minh-30s.mp3`
+- Video: `akashic-30s.mp4`
+- Mix: `thuyet-minh-30s.mp3`
 
 ## Intro Hyperframes (cũ)
 
-- Video (hình + tiếng): `hyperframes-intro-vi.mp4` (~21s)
-- Chỉ thuyết minh (giọng nữ HoaiMy): `thuyet-minh.mp3`
-- Thuyết minh + nhạc nền: `thuyet-minh-va-nhac.mp3`
-
-Giọng nam thử (NamMinh, không video):
-
-- Cùng lời intro: `giong-nam-intro.mp3`
-- Đoạn thử tên riêng bài Akashic: `giong-nam-akashic.mp3`
+- Video: `hyperframes-intro-vi.mp4` (~21s)
+- Giọng nữ HoaiMy: `thuyet-minh.mp3` / `thuyet-minh-va-nhac.mp3`
+- Giọng nam thử: `giong-nam-intro.mp3` / `giong-nam-akashic.mp3`
