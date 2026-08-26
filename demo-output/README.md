@@ -1,25 +1,13 @@
 # Hyperframes demos (tiếng Việt)
 
-**Thuyết minh** = giọng nam NamMinh đọc trong soundtrack, nhạc nền duck nhỏ hơn giọng.  
-**Phụ đề** = chữ trắng dưới hình, để đọc theo.
+Một file mp4: hình + **giọng nam NamMinh trong soundtrack** + nhạc nền duck nhỏ hơn giọng. Chữ dưới hình là phụ đề, không thay thế thuyết minh.
 
-Hai thứ khác nhau. Clip bài viết có **cả hai**. Player trong chat Cursor thường **bỏ track audio** — bạn thấy phụ đề nhưng không nghe thuyết minh. Muốn nghe giọng: mở file **mp3** hoặc tải **mp4** về máy / GitHub Play.
+Player trong chat Cursor thường bỏ tiếng — tải mp4 về máy hoặc mở trên GitHub rồi Play.
 
-## Nghe thuyết minh trước (không cần video)
+## Bài Akashic (~5:28)
 
-Trên GitHub: bấm file mp3 → Play. Điện thoại: Download rồi mở ứng dụng Nhạc / VLC.
+[An AI That Remembers Who It Is](https://cosmos-ai-lab.com/blog/ak-cnt-cal0037)
 
-- 20 giây đầu (giọng nam + nhạc nhỏ): `nghe-thuyet-minh-20s.mp3`
-- Full 5:28 (giọng nam + nhạc nhỏ): `thuyet-minh-full.mp3`
-
-## Video bài viết (~5:28)
-
-Hình trang Field Journal + **thuyết minh NamMinh** + **phụ đề**.
-
-- `akashic-thuyet-minh.mp4` — có audio AAC tiếng Việt (giọng + nhạc). Không nghe trong Cursor chat thì tải về.
-
-## Bản khác (giữ lại)
-
-- HUD tóm tắt: `akashic-full.mp4`
-- Demo 30s: `akashic-30s.mp4` / `thuyet-minh-30s.mp3`
-- Intro Hyperframes: `hyperframes-intro-vi.mp4`
+- `akashic-thuyet-minh.mp4` — trang bài viết, giọng nam trong video, phụ đề
+- `akashic-full.mp4` — bản HUD (cùng thuyết minh)
+- `akashic-30s.mp4` — demo 30 giây
